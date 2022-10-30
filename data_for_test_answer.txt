@@ -1,0 +1,21 @@
+contractnum;source;medium;campaign;pagePath;date;insert_date
+37224908;yandex.ru;referral;(not set);/ru/person/bank_cards/debit/sberkarta_young;2021-05-16 00:00:00.000000;2022-10-30 11:52:10.994033
+29477110;google;organic;(not set);/ru/person/bank_cards/debit/sberkarta_young;2021-05-16 00:00:00.000000;2022-10-30 11:52:10.994033
+44020580;Admitad;cpa;bank_cards.debit.sberkarta_god_person_20210100033_cpa_1242061;/ru/person/bank_cards/debit/sberkarta/pension-card/orderpensioncard_mir;2021-05-16 00:00:00.000000;2022-10-30 11:52:10.994033
+44020596;Admitad;cpa;bank_cards.debit.sberkarta_god_person_20210100033_cpa_1242061;/ru/person/bank_cards/debit/sberkarta/pension-card/orderpensioncard_mir;2021-05-16 00:00:00.000000;2022-10-30 11:52:10.994033
+44020610;Admitad;cpa;bank_cards.debit.sberkarta_god_person_20210100033_cpa_1242061;/ru/person/bank_cards/debit/sberkarta/pension-card/orderpensioncard_mir;2021-05-16 00:00:00.000000;2022-10-30 11:52:10.994033
+34396727;google;cpc;debit_youth-card_god_person_20210100031_context_search_brand_rus_mob_yxprdbc|11965171861;/ru/person/bank_cards/debit/sberkarta_young;2021-05-16 00:00:00.000000;2022-10-30 11:52:10.994033
+30860571;(direct);(none);(not set);/ru/person/bank_cards/debit/sberkarta_young;2021-05-16 00:00:00.000000;2022-10-30 11:52:10.994033
+29476059;google;cpc;debit_sberkarta_god_person_20210100033_context_search_brand_rus_mob_yxprdbc|11965172617;/ru/person/bank_cards/debit/sberkarta_mc;2021-05-17 00:00:00.000000;2022-10-30 11:52:10.994033
+37225680;yandex.ru;referral;(not set);/ru/person/bank_cards/debit/sberkarta/design;2021-05-17 00:00:00.000000;2022-10-30 11:52:10.994033
+34396864;yandex.ru;referral;(not set);/ru/person/bank_cards/debit/sberkarta/design;2021-05-17 00:00:00.000000;2022-10-30 11:52:10.994033
+44017624;google;organic;(not set);/ru/person/bank_cards/debit/sberkarta;2021-05-17 00:00:00.000000;2022-10-30 11:52:10.994033
+37154888;vbr.ru;cpa;bank_cards.debit.youth-card_god_person_20210100031_cpa;/ru/person/bank_cards/debit/gold-pg/ordergivelive_gold;2021-05-17 00:00:00.000000;2022-10-30 11:52:10.994033
+34397397;google;organic;(not set);/ru/person/bank_cards/debit/sberkarta_young;2021-05-17 00:00:00.000000;2022-10-30 11:52:10.994033
+32928651;google;cpc;debit_youth-card_god_person_20210100031_context_search_brand_rus_mob_yxprdbc|11965171861;/ru/person/bank_cards/debit/sberkarta_young;2021-05-18 00:00:00.000000;2022-10-30 11:52:10.994033
+37226505;google;cpc;debit_youth-card_god_person_20210100031_context_search_brand_rus_mob_yxprdbc|11965171861;/ru/person/bank_cards/debit/sberkarta_young;2021-05-18 00:00:00.000000;2022-10-30 11:52:10.994033
+32928220;(direct);(none);(not set);/ru/person/bank_cards/debit/sberkarta;2021-05-18 00:00:00.000000;2022-10-30 11:52:10.994033
+37589823;google;organic;(not set);/ru/person/bank_cards/debit/card_classic/orderclassiccardmir;2021-05-18 00:00:00.000000;2022-10-30 11:52:10.994033
+14962481;(direct);(none);(not set);/ru/person/bank_cards/debit/sberkarta;2021-05-18 00:00:00.000000;2022-10-30 11:52:10.994033
+32929508;(direct);(none);(not set);/ru/person/bank_cards/debit/sberkarta_young;2021-05-18 00:00:00.000000;2022-10-30 11:52:10.994033
+37588893;(direct);(none);(not set);/ru/person/bank_cards/debit/sberkarta;2021-05-18 00:00:00.000000;2022-10-30 11:52:10.994033
